@@ -1,4 +1,4 @@
-<img width="1033" height="457" alt="image" src="https://github.com/user-attachments/assets/8b9584ab-eac4-41de-b836-a3b4c2f4b822" /># EXPERIMENT-05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD
+# EXPERIMENT-05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD
 
 ## Aim: 
 
