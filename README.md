@@ -277,6 +277,9 @@ void Error_Handler(void)
 ```
 
 ## Output screen shots on serial monitor   :
+<img width="1032" height="545" alt="image" src="https://github.com/user-attachments/assets/697c601c-69d1-45ea-b857-793c197259c0" />
+
+## CIRCUIT 
  
  <img width="1862" height="810" alt="image" src="https://github.com/user-attachments/assets/3df5e04d-cb26-439e-9034-d610cad53ded" />
 
